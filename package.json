@@ -1,0 +1,29 @@
+{
+  "name": "webproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  },
+  "description": "New Website project",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manhdkgch18056/WebProject.git"
+  },
+  "author": "Khac Manh Doa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manhdkgch18056/WebProject/issues"
+  },
+  "homepage": "https://github.com/manhdkgch18056/WebProject#readme"
+}
